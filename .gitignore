@@ -20,3 +20,15 @@ src_w_solution/
 
 # Instructor-only notes (chứa gợi ý/đáp án chấm bài, không public cho học viên)
 docs/INSTRUCTOR_GUIDE.md
+
+# Bai lam cua cac thanh vien khac - khong day len repo ca nhan
+BaiLam/
+
+# Ban sao/ban nhap cua corpus - ban dung chinh thuc la data/scholarship/
+scholarship_final/
+scholarship_final.zip
+data/dich-vu-dai-hoc/
+data/dich-vu-dai-hoc.zip
+
+# Output benchmark cu (corpus 26 file, khong con khop)
+ket_qua_benchmark.txt

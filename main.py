@@ -21,12 +21,16 @@ from src.models import Document
 from src.store import EmbeddingStore
 
 SAMPLE_FILES = [
-    "data/python_intro.txt",
-    "data/vector_store_notes.md",
-    "data/rag_system_design.md",
-    "data/customer_support_playbook.txt",
-    "data/chunking_experiment_report.md",
-    "data/vi_retrieval_notes.md",
+    "data/scholarship/haui-financial-aid-scholarships.md",
+    "data/scholarship/hust-financial-aid-for-students.md",
+    "data/scholarship/hust-postgrad-research-scholarships.md",
+    "data/scholarship/iuoss-jensen-huang-scholarship.md",
+    "data/scholarship/lstf-dinh-thien-ly-scholarship.md",
+    "data/scholarship/noi-quy-thu-vien-ptit-can-bo.md",
+    "data/scholarship/noi-quy-thu-vien-ptit-sinh-vien.md",
+    "data/scholarship/ued-postgrad-scholarships.md",
+    "data/scholarship/usth-vallet-scholarship-2026.md",
+    "data/scholarship/viasm-sigma-gold-scholarship.md",
 ]
 
 

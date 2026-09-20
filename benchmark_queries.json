@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": "tra_so_lieu",
+    "query": "Mức học bổng dành cho sinh viên trúng tuyển ngành Vi mạch bán dẫn tại Đại học Công nghiệp Hà Nội là bao nhiêu tiền một tháng?",
+    "gold_answer": "4.200.000 đồng/tháng.",
+    "source_file": "haui-financial-aid-scholarships",
+    "metadata_filter": {}
+  },
+  {
+    "id": 2,
+    "type": "hoi_dieu_kien",
+    "query": "Để duy trì học bổng Đinh Thiện Lý, sinh viên cần đạt kết quả học tập (CGPA) tối thiểu là bao nhiêu nếu tính theo thang điểm 10?",
+    "gold_answer": "Điểm trung bình tích lũy (CGPA) từ 8.0 trở lên theo thang điểm 10.",
+    "source_file": "lstf-dinh-thien-ly-scholarship",
+    "metadata_filter": {}
+  },
+  {
+    "id": 3,
+    "type": "hoi_quy_trinh",
+    "query": "Để Quỹ Đinh Thiện Lý thực hiện giải ngân thanh toán học bổng, phía nhà trường cần thực hiện quy trình gửi email xác nhận với những thông tin gì?",
+    "gold_answer": "Gửi văn bản chính thức gồm: (1) Bộ hồ sơ sinh viên, (2) Tổng số tiền học bổng, và (3) Thông tin tài khoản ngân hàng.",
+    "source_file": "lstf-dinh-thien-ly-scholarship",
+    "metadata_filter": {}
+  },
+  {
+    "id": 4,
+    "type": "liet_ke",
+    "query": "Hãy liệt kê các mức phần trăm hỗ trợ trong chính sách miễn, giảm học phí theo Nghị định của Chính phủ đối với sinh viên?",
+    "gold_answer": "Có 3 mức tương ứng là: 100%, 70% và 50% học phí.",
+    "source_file": "hust-financial-aid-for-students",
+    "metadata_filter": {}
+  },
+  {
+    "id": 5,
+    "type": "metadata_trap",
+    "query": "Tiêu chuẩn về kết quả học tập để sinh viên được nhận hỗ trợ 100% học phí là gì?",
+    "gold_answer": "Không có tiêu chuẩn về kết quả học tập, chỉ cần sinh viên thuộc diện chính sách theo quy định.",
+    "source_file": "hust-financial-aid-for-students",
+    "metadata_filter": {
+      "audience": "student"
+    }
+  }
+]
